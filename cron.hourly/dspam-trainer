@@ -1,0 +1,2 @@
+#! /bin/sh
+python3 /opt/dspam-trainer/dspamTrainer.py >> /var/log/dspam-trainer.log 2>&1
