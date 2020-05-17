@@ -23,7 +23,7 @@ I.e. ham that got marked as spam. These will be found in the Quarantine folder a
 - Call dspam and report the email as innocent
 - Move the email into the Inbox 
 
-## Usgae
+## Usage
 
 - Copy the script found in cron.hourly to /etc/cron.hourly
 - Copy the four python scripts to a folder of your chosing, mine was /opt/dspam-trainer
