@@ -27,4 +27,4 @@ I.e. ham that got marked as spam. These will be found in the Quarantine folder a
 
 - Copy the script found in cron.hourly to /etc/cron.hourly
 - Copy the four python scripts to a folder of your chosing, mine was /opt/dspam-trainer
-
+- update constants.py with the values for your installation (usernames and passwords are strings)
